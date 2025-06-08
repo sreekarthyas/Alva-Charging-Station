@@ -24,6 +24,7 @@ The CSV was imported into Power BI for creating an interactive and insightful da
 
 💰 Analyze Revenue and Utilization Efficiency
 
-🌱 Evaluate Environmental Impact (CO₂ saved, renewable usage, fuel avoided)
+🌱 Evaluate Environmental Impact (CO₂ saved, renewable usage, fuel avoided)  
+Screenshot of the Dashboard : https://github.com/sreekarthyas/Alva-Charging-Station/blob/main/Screenshot%202025-06-04%20234505.png
 
 This end-to-end solution empowers stakeholders to make data-driven decisions and improve the overall reliability and efficiency of EV charging operations.
